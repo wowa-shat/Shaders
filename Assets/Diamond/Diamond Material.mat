@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Diamond Material
+  m_Shader: {fileID: -6465566751694194690, guid: eb9087f9a025fc041a5b9e973ee40cb5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_204e0c587578414b806fee57559f2f0d:
+        m_Texture: {fileID: 2800000, guid: 15450aa3784f5e04a8ece8711288bad2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f694579db439452abfef693046881c70:
+        m_Texture: {fileID: 2800000, guid: 2362e022b796f2d43ac0721db16f2dd9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_504c3ffcf69a4cd3903ecdcb4ee8a8f1: 0.8
+    - Vector1_97545fd70ee440e29aa0786a36207a9a: 0.6
+    - Vector1_daf2604f9ec745b19f05ba99c62b6a4c: 0.1
+    m_Colors:
+    - Color_b1e1e9227ffa4f50b9343006f9a5509c: {r: 1.264665, g: 1.660962, b: 2.215777, a: 0}
+    - Color_e008a50db47d4b8e91b4f8e61090d9ab: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
